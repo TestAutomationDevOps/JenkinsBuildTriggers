@@ -4,7 +4,7 @@ pipeline
 	
 	stages
 	{
-		stage(Git Clone)
+		stage('Git Clone')
 		{
 			steps()
 			{
